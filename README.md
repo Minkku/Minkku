@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hard Working on Backend Developer🔥
+Hard Working on Backend Developer <br>
 Currently learning 🌈 JS, API, DB 🌈 
