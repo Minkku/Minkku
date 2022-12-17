@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Hard Working on Backend Developer🔥
+Currently learning 🌈 JS, API, DB 🌈 
