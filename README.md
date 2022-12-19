@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![merry-christmas-christmas](https://user-images.githubusercontent.com/97155555/208329640-4ad1109d-1ae8-4492-ab5a-92f10855c0b3.gif)
 
 Hard Working on Backend Developer <br>
 Currently learning 🌈 JS, API, DB 🌈 
