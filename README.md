@@ -1,4 +1,4 @@
-### Merry Christmachuuu🎄
+### HappIeee newYearrrr
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinkku&count_bg=%2379C83D&title_bg=%23F5A405&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![merry-christmas-christmas](https://user-images.githubusercontent.com/97155555/208329640-4ad1109d-1ae8-4492-ab5a-92f10855c0b3.gif)
+![zzal](https://user-images.githubusercontent.com/97155555/210214726-bb5b9c45-fc05-40b2-be53-ccfe075c6e66.gif)
 
 Hard Working on Backend Developer <br>
 Currently learning 🌈 JS, API, DB 🌈 
