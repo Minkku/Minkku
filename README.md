@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![zzal](https://user-images.githubusercontent.com/97155555/210214726-bb5b9c45-fc05-40b2-be53-ccfe075c6e66.gif)
 
 Hard Working on Backend Developer <br>
-Currently learning 🌈 JS, API, DB 🌈 
+Currently learning 🌈 JS, API, DB, NEXT.JS 🌈 
