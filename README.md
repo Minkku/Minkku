@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minkku&show_icons=true&theme=radical)
+
 Hard Working on Backend Developer <br>
 Currently learning 🌈 JS, NESTJS, PYTHON, DJANGO 🌈 
