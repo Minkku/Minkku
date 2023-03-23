@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minkku&show_icons=true&theme=radical)
 
 Hard Working on Backend Developer <br>
-Currently learning 🌈 JS, NESTJS, PYTHON, DJANGO 🌈 
+<div align="center">CURRENTLY LEARNING 👨🏻‍💻</div><br/> 
+<div align="center"><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /></div></div>
