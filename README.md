@@ -1,6 +1,6 @@
 ## JUST CODIT
 
-<div align="right"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E59449&title_bg=%23E3EB3E&icon=&icon_color=%23E3DCDC&title=hits&edge_flat=false"/></a></div>
+<div align="right"><a href="https://github.com/Minkku"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E59449&title_bg=%23E3EB3E&icon=&icon_color=%23E3DCDC&title=hits&edge_flat=false"/></a></div>
 
 <!--
 **Minkku/Minkku** is a ✨ _special_ ✨ re<pository because its `README.md` (this file) appears on your GitHub profile.
