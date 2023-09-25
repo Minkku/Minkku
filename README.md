@@ -25,3 +25,6 @@ Hard Working on Backend Developer 🤔<br>
 <div align="center"><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="79" height="79" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="79" height="79" /></div><div style="display: flex;"><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="79" height="79" /></div></div>
 
 ### " 포기하지 말고 끝까지 하장.. "
+
+***
+<img width="100%" src="![캡처](https://github.com/minkku/java_at_home/assets/97155555/2d9fd382-5dae-4818-b1c4-e755f8f16f19)">
